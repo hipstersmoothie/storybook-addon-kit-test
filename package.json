@@ -1,5 +1,5 @@
 {
-  "name": "@alisowski/storybook-addon-kit",
+  "name": "storybook-addon-kit-test",
   "version": "1.0.0",
   "description": "everything you need to build a Storybook addon",
   "keywords": [
